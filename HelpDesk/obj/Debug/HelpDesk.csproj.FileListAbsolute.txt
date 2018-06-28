@@ -1,0 +1,175 @@
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\csc.exe
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\csc.exe.config
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\csc.rsp
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\csi.exe
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\csi.rsp
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.AppContext.dll
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\vbc.exe
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\vbc.exe.config
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\vbc.rsp
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\HelpDesk.dll.config
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\HelpDesk.dll
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\HelpDesk.pdb
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\EntityFramework.dll
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\EntityFramework.xml
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\obj\Debug\HelpDesk.dll
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\obj\Debug\HelpDesk.pdb
+C:\Users\Administrador\Desktop\HelpDesk\HelpDesk\HelpDesk\obj\Debug\HelpDesk.csprojResolveAssemblyReference.cache
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\csc.exe
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\csc.exe.config
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\csc.rsp
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\csi.exe
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\csi.rsp
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.AppContext.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.Collections.Immutable.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.IO.FileSystem.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.Reflection.Metadata.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\vbc.exe
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\vbc.exe.config
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\vbc.rsp
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\VBCSCompiler.exe
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\VBCSCompiler.exe.config
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\HelpDesk.dll.config
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\HelpDesk.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\HelpDesk.pdb
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\EntityFramework.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\EntityFramework.xml
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\obj\Debug\HelpDesk.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\obj\Debug\HelpDesk.pdb
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\obj\Debug\HelpDesk.csprojResolveAssemblyReference.cache
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\csi.exe.config
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.Console.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.IO.Compression.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.IO.Pipes.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.Security.AccessControl.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.Security.Claims.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.ValueTuple.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.Xml.XPath.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\AjaxControlToolkit.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\EntityFramework.SqlServer.dll
+D:\Mirko Salcedo\HelpDesk\HelpDesk\HelpDesk\bin\EntityFramework.SqlServer.xml
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\HelpDesk.dll.config
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\HelpDesk.dll
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\HelpDesk.pdb
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\csc.exe
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\csc.exe.config
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\csc.rsp
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\csi.exe
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\csi.rsp
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.AppContext.dll
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.Collections.Immutable.dll
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.IO.FileSystem.dll
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\System.Reflection.Metadata.dll
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\vbc.exe
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\vbc.exe.config
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\vbc.rsp
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\VBCSCompiler.exe
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\roslyn\VBCSCompiler.exe.config
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\EntityFramework.dll
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\EntityFramework.SqlServer.dll
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\EntityFramework.xml
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\EntityFramework.SqlServer.xml
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\obj\Debug\HelpDesk.csproj.CoreCompileInputs.cache
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\obj\Debug\HelpDesk.csproj.CopyComplete
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\obj\Debug\HelpDesk.dll
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\obj\Debug\HelpDesk.pdb
+D:\Mirko Salcedo\SISTEMA SOPORTE\HelpDesk\HelpDesk\HelpDesk\obj\Debug\HelpDesk.csprojAssemblyReference.cache
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\obj\Debug\HelpDesk.csprojAssemblyReference.cache
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\obj\Debug\HelpDesk.csproj.CoreCompileInputs.cache
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\obj\Debug\HelpDesk.dll
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\obj\Debug\HelpDesk.pdb
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\HelpDesk.dll.config
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\HelpDesk.dll
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\HelpDesk.pdb
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\roslyn\csc.exe
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\roslyn\csc.exe.config
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\roslyn\csc.rsp
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\roslyn\csi.exe
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\roslyn\csi.rsp
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\roslyn\System.AppContext.dll
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\roslyn\vbc.exe
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\roslyn\vbc.exe.config
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\roslyn\vbc.rsp
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\roslyn\VBCSCompiler.exe
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\EntityFramework.dll
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\EntityFramework.SqlServer.dll
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\EntityFramework.xml
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\EntityFramework.SqlServer.xml
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\falarcon.DELTATI\Desktop\HelpDesk\HelpDesk\obj\Debug\HelpDesk.csproj.CopyComplete
