@@ -246,7 +246,7 @@ public class ConfigSMTP
         email.IsBodyHtml = true;
         email.Subject = "Solicitud de Clave Nueva - Sistema de Atención de Tickets";
         email.Body = "Usted a realizado una solicitud de cambio de clave. Haga clic " +
-            " <a href='192.168.100.98:81/cambiarClaveURL.aspx?id=" + user + "'>AQUI</a> para realizar el cambio de clave </b><br/>En caso no haber solicitado un cambio de clave, comuniquese con <b>Soporte Técnico</b>." +
+            " <a href='192.168.100.98:81/NuevaClave.aspx?id=" + user + "'>AQUI</a> para realizar el cambio de clave </b><br/>En caso no haber solicitado un cambio de clave, comuniquese con <b>Soporte Técnico</b>." +
             " <br/><br/><br/><b>Atentamente<br/>Sistema de Atención de Tickets</b><br/><br/> <img src= 'https://imageshack.com/a/img922/8869/hFXiyq.png' width='176' height='90' border='0'>";
 
         cn.Conectar();
@@ -387,18 +387,18 @@ public class ConfigSMTP
     {
         try
         {
-            cn.Conectar();
-            SqlCommand sc1 = new SqlCommand("select responsable from areas where descArea = 'Soporte Tecnico'", cn.getConexion());
-            SqlDataReader dr1 = sc1.ExecuteReader();
-            dr1.Read();
-            string responsables = "";
-            responsables = dr1["responsable"].ToString();
-            cn.Cerrar();
+            //cn.Conectar();
+            //SqlCommand sc1 = new SqlCommand("select responsable from areas where descArea = 'Soporte Tecnico'", cn.getConexion());
+            //SqlDataReader dr1 = sc1.ExecuteReader();
+            //dr1.Read();
+            //string responsables = "";
+            //responsables = dr1["responsable"].ToString();
+            //cn.Cerrar();
 
             MailMessage email = new MailMessage();
             email.From = new MailAddress("ticket.atencion1@gmail.com");
             email.To.Add("msalcedo@deltasac.com");
-            email.CC.Add(responsables);
+            //email.CC.Add(responsables);
             email.IsBodyHtml = true;
             email.Subject = "Error detectado - Sistema de Atención de Tickets";
             email.Body = "Se ha detectado un error en la página:  " + pagina + " por el usuario: " + usuario + ". <br/>El error es el siguiente: " + error + ". Fue detectado al ejecutar: " + accion + " <br/><b> Atentamente <br/> Soporte Técnico.</b>" +

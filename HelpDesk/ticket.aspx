@@ -74,7 +74,7 @@
         <span class="caret"></span></a>
         <ul class="dropdown-menu">
           <li><asp:HyperLink ID="cambioClave" runat="server" NavigateUrl="~/cambiarClave.aspx" style="color: #4682B4 !important;" Font-Size="Medium">Cambio de clave</asp:HyperLink></li>
-          <li><asp:LinkButton ID="cerrarsesion" runat="server" OnClick="cerrarsesion_Click" ForeColor="#4682B4" Font-Size="Medium">Cerrar sesion</asp:LinkButton></li>
+          <li><asp:LinkButton ID="cerrarsesion" runat="server" OnClick="cerrarsesion_Click" ForeColor="#4682B4" Font-Size="Medium">Cerrar Sesion</asp:LinkButton></li>
           
         </ul>
       </li>
@@ -314,7 +314,7 @@ function contadorTexto(campo, cuentaCampos, limiteMaximo, limiteMinimo) {
 
                         <div class="col-md-12" style="margin-top: 40px; margin-left: 15px">
                             <asp:Label ID="lblImg" runat="server" Text="Seleccione para subir una imagen: " ForeColor="#4682B4"></asp:Label>
-                            <asp:FileUpload ID="fileImg" runat="server" ToolTip="¿Desea subir una imagen?" CssClass="btn" ForeColor="#4682B4" Width="350px" /><br />
+                            <asp:FileUpload ID="fileImg" runat="server" ToolTip="¿Desea subir una imagen?" CssClass="form-control" style="border:none; box-shadow:0px 0px 0px 0px;" ForeColor="#4682B4" Width="350px" /><br />
                             <br />
                             <asp:Label ID="lblCorrectoEditar" runat="server" Text="" ForeColor="#33cc33"></asp:Label>
                             <asp:Label ID="lblErrorEditar" runat="server" Text="" ForeColor="Red"></asp:Label>
@@ -341,7 +341,7 @@ function contadorTexto(campo, cuentaCampos, limiteMaximo, limiteMinimo) {
             <ContentTemplate>
                 <div class="modal-content">
                     <div class="modal-header">
-                        <h4 class="modal-title"> Error de selección</h4>
+                        <h4 class="modal-title"> Mensaje de Error</h4>
                     </div>
                  
                     <div class="modal-body">

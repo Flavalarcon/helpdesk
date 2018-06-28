@@ -56,8 +56,8 @@
                 </asp:DropDownList><br /><br />
                 <asp:Label ID="lblError" runat="server" ForeColor="Red" Visible="false"></asp:Label>
                 <asp:Label ID="lblErrorVS" Text="" ForeColor="red" runat="server" Visible="false"></asp:Label>
-                <asp:Button id="btnGrabar" runat="server" Text="Asignar" OnClick="btnGrabar_Click" CssClass="btn btn-info" BackColor="White" ForeColor="#4682B4"/>
-                <asp:Button ID="btnCerrar" runat="server" Text="Cerrar" OnClick="btnCerrar_Click" CssClass="btn btn-info" BackColor="White" ForeColor="#4682B4" style="margin-left:80px"/>
+                <asp:Button id="btnGrabar" runat="server" Text="Asignar" OnClick="btnGrabar_Click" CssClass="btn btn-primary" ForeColor="#4682B4"/>
+                <asp:Button ID="btnCerrar" runat="server" Text="Cerrar" OnClick="btnCerrar_Click" CssClass="btn btn-primary"  ForeColor="#4682B4" style="margin-left:80px"/>
         
                 </div>
     </form>

@@ -47,10 +47,10 @@
             <br />
             <asp:Label ID="lblErrorVS" Text="" ForeColor="red" runat="server" Visible="false"></asp:Label>
             <asp:Label ID="lblError" Text="" runat="server" ForeColor="Red" Visible="false"></asp:Label><br />
-            <asp:HyperLink ID="hlOlvClave" runat="server" Text="¿Olvido su clave? Solicite una nueva." CssClass="remember-forgot" NavigateUrl="SolicitudClave.aspx" ForeColor="#4682B4"></asp:HyperLink>
+            <asp:HyperLink ID="hlOlvClave" runat="server" Text="¿Olvido su clave? Solicite una nueva." CssClass="remember-forgot" NavigateUrl="NuevaClave.aspx" ForeColor="#4682B4"></asp:HyperLink>
             
             <br /><br /><br />
-            <asp:Button ID="btnIngresar" runat="server" Text="Ingresar" OnClick="btnIngresar_Click" CssClass="btn btn-round" BackColor="#4682B4" ForeColor="White"/>
+            <asp:Button ID="btnIngresar" runat="server" Text="Ingresar" OnClick="btnIngresar_Click" CssClass="btn btn-primary" BackColor="#4682B4"/>
         </center>
         </div>
     </form>

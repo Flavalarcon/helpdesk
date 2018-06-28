@@ -63,7 +63,7 @@
         <span class="caret"></span></a>
         <ul class="dropdown-menu">
           <li><asp:HyperLink ID="cambioClave" runat="server" NavigateUrl="~/cambiarClave.aspx" style="color: #4682B4 !important;" Font-Size="Medium">Cambio de clave</asp:HyperLink></li>
-          <li><asp:LinkButton ID="cerrarsesion" runat="server" OnClick="cerrarsesion_Click" Font-Size="Medium">Cerrar sesion</asp:LinkButton></li>
+          <li><asp:LinkButton ID="cerrarsesion" runat="server" OnClick="cerrarsesion_Click" Font-Size="Medium">Cerrar Sesion</asp:LinkButton></li>
           
         </ul>
       </li>
@@ -109,7 +109,7 @@
             <asp:Label ID="lblCorrecto" Text="" ForeColor="#00cc00" runat="server" Visible="false"></asp:Label>
             <br /><br />
             
-            <asp:Button ID="btnCambiar" runat="server" Text="Cambiar clave" OnClick="btnCambiar_Click" class="btn btn-info" BackColor="White" ForeColor="#4682B4"/>
+            <asp:Button ID="btnCambiar" runat="server" Text="Cambiar clave" OnClick="btnCambiar_Click" class="btn btn-primary" ForeColor="#4682B4"/>
             </center>
            
                 

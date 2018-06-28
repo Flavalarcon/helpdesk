@@ -19,7 +19,7 @@ namespace HelpDesk
         private string email;
         private string usu;
         private string req;
-        public static string id_ticket2;
+        
         
         protected void Page_Load(object sender, EventArgs e)
         {
@@ -67,7 +67,7 @@ namespace HelpDesk
 
                     cn.Cerrar();
                 }
-                lblticket.Text = id_ticket2;
+                lblticket.Text = Session["idTicket"].ToString();
             }
             }
             catch (Exception x)
@@ -108,29 +108,29 @@ namespace HelpDesk
                     return;
                 }
                 cn.Conectar();
-                SqlCommand sc = new SqlCommand("update ticket set idTecnico= '" + cboTecnico.SelectedValue.ToString() + "', idEstado=2 where RIGHT('000000' + cast(idTicket AS varchar(6)), 6) = '" + id_ticket2 + "'", cn.getConexion());
+                SqlCommand sc = new SqlCommand("update ticket set idTecnico= '" + cboTecnico.SelectedValue.ToString() + "', idEstado=2 where RIGHT('000000' + cast(idTicket AS varchar(6)), 6) = '" + Session["idTicket"].ToString() + "'", cn.getConexion());
                 sc.ExecuteNonQuery();
                 cn.Cerrar();
                 cn.Conectar();
                 SqlCommand q = new SqlCommand("select u.username, u2.email, t.requerimiento from ticket t inner join usuario u on t.id=u.id" +
                     " inner join usuario u2 on t.idTecnico = u2.id where RIGHT('000000' + cast(t.idTicket AS varchar(6)), 6)=@tck", cn.getConexion());
-                q.Parameters.AddWithValue("@tck", id_ticket2);
+                q.Parameters.AddWithValue("@tck", Session["idTicket"].ToString());
                 SqlDataReader dr = q.ExecuteReader();
                 dr.Read();
                 email = dr["email"].ToString();
                 usu = dr["username"].ToString();
                 req = dr["requerimiento"].ToString();
 
-                ConfigSMTP smtp = new ConfigSMTP();
-                smtp.emailTec(usu, req, email);
-                cn.Cerrar();
+                //ConfigSMTP smtp = new ConfigSMTP();
+                //smtp.emailTec(usu, req, email);
+                //cn.Cerrar();
 
-                if (!string.IsNullOrEmpty(Session["error"].ToString()))
-                {
-                    lblError.Text = Session["error"].ToString();
-                    lblError.Visible = true;
-                    return;
-                }
+                //if (!string.IsNullOrEmpty(Session["error"].ToString()))
+                //{
+                //    lblError.Text = Session["error"].ToString();
+                //    lblError.Visible = true;
+                //    return;
+                //}
                 Session["mensaje"] = "Se asignó correctamente el técnico.";
                 string cerrar = "window.close();";
                 Session.Remove("idTicket");

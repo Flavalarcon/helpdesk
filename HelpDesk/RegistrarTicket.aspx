@@ -64,7 +64,7 @@
         <span class="caret"></span></a>
         <ul class="dropdown-menu">
           <li><asp:HyperLink ID="cambioClave" runat="server" NavigateUrl="~/cambiarClave.aspx" style="color: #4682B4 !important;" Font-Size="Medium">Cambio de clave</asp:HyperLink></li>
-          <li><asp:LinkButton ID="cerrarsesion" runat="server" OnClick="cerrarsesion_Click" ForeColor="#4682B4"  Font-Size="Medium">Cerrar sesion</asp:LinkButton></li>
+          <li><asp:LinkButton ID="cerrarsesion" runat="server" OnClick="cerrarsesion_Click" ForeColor="#4682B4"  Font-Size="Medium">Cerrar Sesion</asp:LinkButton></li>
           
         </ul>
       </li>
